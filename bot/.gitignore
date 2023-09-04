@@ -1,0 +1,5 @@
+myenv/
+__pycache__/
+intents.json
+train.py
+data.pth
